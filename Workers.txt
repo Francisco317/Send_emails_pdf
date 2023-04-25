@@ -1,0 +1,3 @@
+Nombre,Departamento,Fecha de nacimiento,email
+Francisco Chavez Alanis,RH,2002-04-19,chavezpaco972@gmail.com
+Kenji Toledo Almazan,IT,2001-04-19,colaboradorgm1@gmail.com
